@@ -18,5 +18,5 @@ Switch restored to factory-clean configuration without service disruption.
 
 ## 📄 Documentation
 
-- 📥 Recruiter Version (PDF)
-- 📥 Full Version (PDF)
+- 📥 [Recruiter Version (PDF)](./LAB_NOC_01_Recruiter.pdf)
+- 📥 [Full Version (PDF)](./LAB_NOC_01_Full.pdf)
