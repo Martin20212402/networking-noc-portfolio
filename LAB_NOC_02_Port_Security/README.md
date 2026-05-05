@@ -36,8 +36,8 @@ Prevents unauthorized devices in industrial networks (SCADA, cameras, etc.)
 
 ## 📂 Documentation
 
-- 📄 [Full Documentation (Technical Version)](./LAB_NOC_02_FULL.pdf)
-- 📄 [Recruiter Version (Short)](./LAB_NOC_02_RECRUITER.pdf)
-- Port Security
-- Troubleshooting
-- NOC Thinking
+- 📄 [Full Version (PDF)](./LAB_NOC_02_Full.pdf)
+- 📄 [Recruiter Version (PDF)](./LAB_NOC_02_Recruiter.pdf)
+
+
+
